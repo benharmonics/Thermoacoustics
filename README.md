@@ -4,7 +4,7 @@ Projects having to do with thermoacoustic refrigerators and engines.
 ## Spring 2022 - Advanced Physics Laboratory
 
 ### TAR.jl
-General scratch work. Because `Pluto` is a 'live' notebook environment, it runs each affected cell again for every change you make. This is good if you're doing something like adjusting one variable and wanting to see how many other things change as a result. It's very useful when taking data or making calculations on-the-fly in a lab setting.
+General scratch work. Because `Pluto` is a 'live' notebook environment, it runs each affected cell again for every change you make. This is good if you're doing something like adjusting one variable and wanting to see how many other things change as a result. It's very useful when taking data or making calculations on-the-fly in a lab setting. It's a lot like Jupyter if you're familiar with that.
 
 Note however that to run this `Pluto` notebook you'll need to first of all install [Julia](https://julialang.org/downloads/), then in the Julia REPL:
 
