@@ -14,6 +14,10 @@ Scratch Python script for calibrating an Adafruit Microphone with an Arduino. Th
 
 ## Sources
 
+[Thermoacoustic prime movers and refrigerators: Thermally powered engines without moving components](https://trc.nist.gov/cryogenics/Papers/Review/2015-Thermoacoustic_Prime_Movers_and_Refrigerators.pdf), Tao Jin, Jiale Huang, Ye Feng, Rui Yang, Ke Tang, Ray Radebaugh
+
+[Maximum cooling and maximum efficiency of thermoacoustic refrigerators](https://link.springer.com/article/10.1007/s00231-015-1599-y), L.K Tartibu
+
 [PLA Material Data Sheet](https://www.sd3d.com/wp-content/uploads/2017/06/MaterialTDS-PLA_01.pdf)
 
 [Polymer Database (PLA Data)](https://polymerdatabase.com/polymers/polylacticacid.html)
