@@ -1,7 +1,7 @@
 """read_log.py: Reads the microphone log & prints the average voltage"""
 
 def main():
-    file = 'C:\\Users\\benja\\OneDrive\\Documents\\School\\Spring 2022\\Lab\\microphone.log'
+    file = 'microphone.log'
     print('Reading from', file)
 
     with open(file, 'r') as f:
