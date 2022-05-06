@@ -24,6 +24,4 @@ Scratch Python script for calibrating an Adafruit Microphone with an Arduino. Th
 
 [Isentropic Coefficient of Air](https://www.powderprocess.net/Tools_html/Data_Diagrams/Tools_isentropic_coefficients.html)
 
-[Maximum cooling and maximum efficiency of thermoacoustic refrigerators](https://link.springer.com/article/10.1007/s00231-015-1599-y)
-
 [Convert sound pressure in Decibels to Pascals/atm](https://www.translatorscafe.com/unit-converter/en-US/sound-pressure-level/2-9/pascal-sound%20pressure%20level%20in%20decibels/)
