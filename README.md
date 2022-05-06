@@ -4,7 +4,7 @@ Projects having to do with thermoacoustic refrigerators and engines.
 ## Spring 2022 - Advanced Physics Laboratory
 
 ### TAR.jl
-General scratch work. Includes sources!
+General scratch work. Because `Pluto` is a 'live' notebook environment, it runs each affected cell again for every change you make. This is good if you're doing something like adjusting one variable and wanting to see how many other things change as a result. It's very useful when taking data or making calculations on-the-fly in a lab setting.
 
 ### stack_shape.ipynb
 This is the notebook where we use our collected data to compare the mean temperature difference across each stack shape (for the 4-inch stacks).
