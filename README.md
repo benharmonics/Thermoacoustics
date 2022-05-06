@@ -6,6 +6,22 @@ Projects having to do with thermoacoustic refrigerators and engines.
 ### TAR.jl
 General scratch work. Because `Pluto` is a 'live' notebook environment, it runs each affected cell again for every change you make. This is good if you're doing something like adjusting one variable and wanting to see how many other things change as a result. It's very useful when taking data or making calculations on-the-fly in a lab setting.
 
+Note however that to run this `Pluto` notebook you'll need to first of all install [Julia](https://julialang.org/downloads/), then in the Julia REPL:
+
+```julia
+import Pkg
+Pkg.add("Pluto")
+```
+
+then
+
+```julia
+import Pluto
+Pluto.run()
+```
+
+and you should be able to open up the notebook pretty easily from there - you can even open the notebook directly from its GitHub URL. Pretty neat!
+
 ### stack_shape.ipynb
 This is the notebook where we use our collected data to compare the mean temperature difference across each stack shape (for the 4-inch stacks).
 
