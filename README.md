@@ -5,14 +5,18 @@ The general refrigeration cycle for a thermoacoustic system is as follows:
 
 <img src="images/PVCycle.jpg" width="660" margin="auto" />
 
+The acoustic pressure wave compresses and expands the parcel of gas more-or-less adiabatically, then heat is rejected or absorbed more-or-less isobarically.
+
 ## Spring 2022 - Advanced Physics Laboratory
-This semester we built a half-wavelength TAR (both ends sealed) using a 4' lexan resonator tube and several 3D-printed PLA stacks, each 5cm in length with three differently topologies:
+This semester we built a half-wavelength cylindrical TAR using a 4' lexan resonator tube and several 3D-printed PLA stacks, each 5cm in length with three differently topologies:
 
 1. parallel plates
 2. hexagonal tubes
 3. square tubes
 
 <img src="images/TAR_design.jpg" width="660" />
+
+This TAR design uses a standing wave to produce a pressure gradient in the resonating chamber, which gives rise to a temperature gradient across the stack using the cycle described above.
 
 ### TAR.jl
 General scratch work. Because `Pluto` is a 'live' notebook environment, it runs each affected cell again for every change you make. This is good if you're doing something like adjusting one variable and wanting to see how many other things change as a result. It's very useful when taking data or making calculations on-the-fly in a lab setting. It's a lot like Jupyter if you're familiar with that.
