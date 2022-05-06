@@ -5,7 +5,7 @@ The general refrigeration cycle for a thermoacoustic system is as follows:
 
 <img src="images/PVCycle.jpg" width="660" margin="auto" />
 
-The acoustic pressure wave compresses and expands the parcel of gas more-or-less adiabatically, then heat is rejected or absorbed more-or-less isobarically.
+The acoustic pressure wave compresses and expands the parcel of gas more-or-less adiabatically.
 
 ## Spring 2022 - Advanced Physics Laboratory
 This semester we built a half-wavelength cylindrical TAR using a 4' lexan resonator tube and several 3D-printed PLA stacks, each 5cm in length with three differently topologies:
