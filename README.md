@@ -34,7 +34,7 @@ import Pkg
 Pkg.add("Pluto")
 ```
 
-then
+(there's at least one other way to do that), then
 
 ```julia
 import Pluto
